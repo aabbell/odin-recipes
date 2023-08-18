@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.recipe.card{
+    background-color:rgb(209, 202, 104);
+    text-align:center;
+    width: 800px;
+}
+img{
+    width: 500px;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    font-weight:bolder;
+}
+p{
+    font-weight: bold;
+    color: brown;
+}
+.recipe.content {
+    text-align: left;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+
